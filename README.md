@@ -1,6 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
-<h1 align="center">Hi 👋, I'm Pranav Phatale !</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Development GIF">
+</div><h1 align="center">Hi 👋, I'm Pranav Phatale !</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phatale-pranav1707&label=Profile%20views&color=0e75b6&style=flat" alt="phatale-pranav1707" /> </p>
